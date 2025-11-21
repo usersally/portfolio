@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(224, 213, 200);
+    font-size: 15px;
+    margin: 4%;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0%;
+}
+nav{
+  border-radius: 30px;
+  text-align: center;
+  background-color: rgb(234, 186, 123);
+  margin: auto 100px;
+}
+h1{
+    background-color: bisque;
+    margin: 30px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: rgb(135, 86, 30);
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+h2{
+    background-color: bisque;
+    border-radius: 40px;
+    margin-right: 400px
+    
+}
+#Resume table{
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige ;
+    border-radius: 12px;
+    overflow: hidden;
+    
+}
+#Resume tr{
+    border-bottom: none;
+}
+#Resume th{
+    text-align: left;
+    padding: 12px;
+    font-size: 16px;
+}
+#Resume td{
+    padding: 12px;
+    border-bottom: 1px solid #e6e6e6;
+    font-size: 15px;
+}
+#Resume h2{
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+button{
+    background-color: blanchedalmond;
+    cursor: pointer;
+    border-radius: 12px;
+}
+button:hover{
+    background-color: antiquewhite;
+}
+#image{
+    width:auto;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgb(135, 86, 30);
+    float: right;
+
+    
+}
